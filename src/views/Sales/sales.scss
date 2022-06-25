@@ -1,0 +1,28 @@
+@import '../../assets/_mixins.scss';
+
+.search-results .card {
+    margin-top: 0.5rem;
+    padding: 0.5rem;
+}
+
+.search-results .card:first-child {
+    margin-top: 0;
+}
+
+.card-selected {
+    background-color: rgb(170, 204, 255) !important;
+}
+
+.details-col {
+    text-align: justify;
+}
+
+.separator {
+    color: #e0e0e0;
+    margin-left: 0.25rem;
+    margin-right: 0.25rem;
+}
+
+.card-selected .separator {
+    color: rgb(87, 95, 107) !important;
+}
