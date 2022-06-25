@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/cco-pucp/cco.git/static/css/main.5bc543b1.css",
-    "main.js": "/cco-pucp/cco.git/static/js/main.513f76df.js",
-    "static/js/787.9b8641bb.chunk.js": "/cco-pucp/cco.git/static/js/787.9b8641bb.chunk.js",
-    "static/media/logo.webp": "/cco-pucp/cco.git/static/media/logo.0c834599e7e0a771b869.webp",
-    "service-worker.js": "/cco-pucp/cco.git/service-worker.js",
-    "static/media/search.png": "/cco-pucp/cco.git/static/media/search.afde00ab19b32864cdd8.png",
-    "static/media/avatar.png": "/cco-pucp/cco.git/static/media/avatar.3817e3f52dd067cee0b8.png",
-    "static/media/trash.png": "/cco-pucp/cco.git/static/media/trash.539f5b124a1ccd24d88d.png",
-    "index.html": "/cco-pucp/cco.git/index.html",
-    "main.5bc543b1.css.map": "/cco-pucp/cco.git/static/css/main.5bc543b1.css.map",
-    "main.513f76df.js.map": "/cco-pucp/cco.git/static/js/main.513f76df.js.map",
-    "787.9b8641bb.chunk.js.map": "/cco-pucp/cco.git/static/js/787.9b8641bb.chunk.js.map"
+    "main.css": "./cco/static/css/main.5bc543b1.css",
+    "main.js": "./cco/static/js/main.afad341b.js",
+    "static/js/787.9b8641bb.chunk.js": "./cco/static/js/787.9b8641bb.chunk.js",
+    "static/media/logo.webp": "./cco/static/media/logo.0c834599e7e0a771b869.webp",
+    "service-worker.js": "./cco/service-worker.js",
+    "static/media/search.png": "./cco/static/media/search.afde00ab19b32864cdd8.png",
+    "static/media/avatar.png": "./cco/static/media/avatar.3817e3f52dd067cee0b8.png",
+    "static/media/trash.png": "./cco/static/media/trash.539f5b124a1ccd24d88d.png",
+    "index.html": "./cco/index.html",
+    "main.5bc543b1.css.map": "./cco/static/css/main.5bc543b1.css.map",
+    "main.afad341b.js.map": "./cco/static/js/main.afad341b.js.map",
+    "787.9b8641bb.chunk.js.map": "./cco/static/js/787.9b8641bb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5bc543b1.css",
-    "static/js/main.513f76df.js"
+    "static/js/main.afad341b.js"
   ]
 }
